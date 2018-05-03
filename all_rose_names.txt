@@ -164,7 +164,6 @@ Cap Diamant
 Capistrano
 Captain Samuel Holland
 Cardinal Song
-Carding Mill
 Carding Mill™
 Carefree Beauty
 Carefree Celebration
@@ -210,8 +209,6 @@ Chrysler Imperial
 Chuckles
 Cinco de Mayo
 Cinderella
-Cinderella - Fariy Tale
-Cinqo De Mayo
 Circus
 City of Leeds
 City of Welland
@@ -389,13 +386,11 @@ Garden Party
 Gardenia
 Gay Princess
 Gemini
-Gene Boener
 Gene Boerner
 General Jacqueminot
 General Schablikine
 Gentle Giant ™
 Gentle Hermione
-Gentle Hermoine
 Geoff Hamilton
 George Vancouver
 Georgetown Tea
@@ -468,7 +463,6 @@ Honorine de Brabant
 Hope for Humanity
 Horace McFarland
 Horatio Nelson
-Hot Cocoa
 Hot Cocoa ™
 Hot Shot
 Hot Tamale
@@ -477,7 +471,7 @@ Humdinger
 Huntington Rose
 Hyde Hall
 Iceberg
-Iceberg, Climbing
+Iceberg, Cl.
 Icecap
 Iced Raspberry
 Ida
@@ -501,7 +495,7 @@ Jean Bach Sisley
 Jean Kenneally
 Jean Mermoz
 Jean Rex
-Jeanne DArc
+Jeanne D'Arc
 Jeanne Lajoie
 Jennifer
 Jessica
@@ -545,7 +539,6 @@ Kosmos ® Fairy Tale
 Kristin
 Kronprincessin Viktoria
 L. D. Braithwaite
-L.D. Braithwaite
 La Marne
 La Perla ®
 La Plata Sequicentennial
@@ -598,8 +591,6 @@ Little Flame
 Little Jackie
 Little Tommy
 Livin' Easy ™
-Living Easy
-Livin’ Easy
 Lois Wilson
 Louis Jolliet
 Louis Philippe
@@ -692,8 +683,6 @@ Mister Lincoln
 Mlle. Franziska Kruger
 Mme Chiang Kai-shek
 Mme Marie Curie
-Mme. Alfred Carriere
-Mme. Isaac Pereire
 Mojave
 Molineux
 Mon Cheri
@@ -733,7 +722,6 @@ Nancy Gay
 Napoleon
 Natchitoches Noisette
 Nearly Wild
-Needlenose Pruner
 New Beginning
 New Dawn
 New Year
@@ -793,7 +781,7 @@ Peggy Rockfeller
 Penelope
 Perfect Moment
 Perfume Delight
-Perle dOr
+Perle d'Or
 Perle des Jardins
 Perle des Jardins, Cl.
 Petite Pink Scotch
@@ -850,7 +838,6 @@ Queen of Sweden
 Quietness
 Radiance
 Rainbow Knock Out
-Rainbow Knockout
 Rainbow Niagara
 Rainbow Sorbet
 Rainbow’s End
@@ -864,14 +851,12 @@ Redgold
 Redoute
 Regine
 Reine des Violettes
-Repeating Blooming Swamp Rose
 Republic of Texas
-Reve dOr
+Reve d'Or
 Rhodoloque Jules Gravereaux
 Rina Hugo
 Ring of Fire
 Rio Samba
-Rise N Shine
 Rise ‘n’ Shine
 Rita Dennis
 Rita McNeil
@@ -884,7 +869,6 @@ Roman Holiday
 Ron's Vision
 Rosarium Uetersen
 Rose Parade
-Rose a Parfum de l'Hay
 Rose de Rescht
 Roseraie de l'Hay
 Rosette Delizy
@@ -1018,14 +1002,11 @@ Tam o'Shanter
 Tamora
 Tea Clipper
 Teasing Georgia
-Ten Ten CFRB
-Tess of The D'urbervilles
 Tess of the d'Urbervilles
 Texas Centennial
 The Abbottsford Rose
 The Albrighton Rambler
 The Alexandra Rose
-The Alnwick Rose
 The Alnwyke Rose
 The Ancient Mariner
 The Chief
@@ -1093,7 +1074,6 @@ White Gold
 White Knight
 White Licorice
 White Lightnin'
-White Lightnin’
 White Meidiland
 White Pet
 White Quill
